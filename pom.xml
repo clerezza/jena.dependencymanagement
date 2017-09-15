@@ -54,8 +54,10 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-  <scm>
-    <tag>201508-1</tag>
+    <scm>
+        <developerConnection>scm:git:git@github.com:clerezza/jena.dependencymanagement.git</developerConnection>
+        <connection>scm:git:https://github.com/clerezza/jena.dependencymanagement.git</connection>
+        <url>https://github.com/clerezza/jena.dependencymanagement</url>
+      <tag>HEAD</tag>
   </scm>
 </project>
